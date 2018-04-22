@@ -1,0 +1,22 @@
+{
+  "name": "poc-gulp",
+  "version": "1.0.0",
+  "description": "\"A simple poc of gulp\"",
+  "main": "index.js",
+  "scripts": {
+    "build": "gulp build",
+    "start": "node dest/application",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Atikur Rahman",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3"
+  },
+  "devDependencies": {
+    "@types/node": "^9.6.6",
+    "gulp": "^3.9.1",
+    "gulp-typescript": "^4.0.2",
+    "typescript": "^2.8.3"
+  }
+}
