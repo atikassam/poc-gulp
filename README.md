@@ -10,7 +10,7 @@ npm run build
 npm start
 ```
 
-open http://localhost:8080 in your browser
+Next open http://localhost:8080 in your browser
 
 ##### Start watch 
 
